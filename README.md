@@ -1,4 +1,4 @@
-# coldwallet
+# coldwallet (for M2354)
 
 This is a project implementing Cold wallet on Nuvoton M2354. Using embedded C.
 
